@@ -1,10 +1,10 @@
 # Hi, I'm Ryan Callaghan! 
 
-<img src = "https://github.com/racrac5/racrac5.github.io/blob/master/RyanProfPhoto.jpg" width="50%" height="50%">
+<img src = "https://github.com/racrac5/racrac5.github.io/blob/master/RyanProfPhoto.jpg" width="50%" height="50%" alignment = "center">
 
 This is a space for people to get to know me, the projects I'm working on, and a general sense of my work!
 
-Here's a look my <a href="https://github.com/racrac5/racrac5.github.io/blob/master/Ryan Callaghan CV.pdf">resume</a> and LinkedIn **[LinkedIn profile](https://www.linkedin.com/in/ryan-callaghan-273624126/)**.
+Here's a look my <a href="https://github.com/racrac5/racrac5.github.io/blob/master/Ryan Callaghan CV.pdf">resume</a> and **[LinkedIn profile](https://www.linkedin.com/in/ryan-callaghan-273624126/)**.
 
 ***
 
