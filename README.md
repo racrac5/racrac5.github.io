@@ -1,8 +1,8 @@
-# Hi, I'm Ryan Callaghan! ![RACprofessionalpic](RyanProfPhoto.jpg "Me")
+# Hi, I'm Ryan Callaghan! !<img src = "https://github.com/racrac5/racrac5.github.io/blob/master/RyanProfPhoto.jpg" width="50%" height="50%">
 
 This is a space for people to get to know me, the projects I'm working on, and a general sense of my work!
 
-Find my **[resume]![Ryan_Callaghan_CV.pdf]** and my LinkedIn **[here](https://www.linkedin.com/in/ryan-callaghan-273624126/)**.
+Find my **[resume]![Ryan Callaghan CV.pdf]** and my LinkedIn **[here](https://www.linkedin.com/in/ryan-callaghan-273624126/)**.
 
 ***
 
