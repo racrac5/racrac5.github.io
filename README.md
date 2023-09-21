@@ -23,7 +23,7 @@ Beyond my formal employment at BCG and Deloitte, I have also worked as an Inspir
 I have been fascinated with startups and bootstrapping since I first became passionnate about a product during my days 3-D printing impact resistant plastics as a High School Science Fair Geek. A quick summary of some past team's I've been involved with:
 - **Quibbl, Chief of Staff**, I helped build a gameified approach to comment sections designed to reduce trolling and hate speech while rewarding thoughtful debate and genuine reflection by tracking commenter behavior and promoting comments from rule-abiding users.
 - **Sedelle, Technical Consultant**, I consulted a founder on design choices and technical flaws in an early build of a early-stage beauty and wellness marketplace
-- **Stealh, Product Advisor**, I am consulting a founder of an early-stage LATAM-focused B2C FinTech company on customer segmentation, market research, and establishing a roadmap to PMF.
+- **Stealth, Product Advisor**, I am consulting a founder of an early-stage LATAM-focused B2C FinTech company on customer segmentation, market research, and establishing a roadmap to PMF.
 
 # Education
 
