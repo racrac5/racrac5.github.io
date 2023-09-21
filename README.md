@@ -2,7 +2,7 @@
 
 This is a space for people to get to know me, the projects I'm working on, and a general sense of my work!
 
-Find my resume ![Ryan_Callaghan_CV.pdf](Ryan_Callaghan_CV.pdf)** and my LinkedIn **[here](https://www.linkedin.com/in/ryan-callaghan-273624126/)**.
+Find my **[resume]![Ryan_Callaghan_CV.pdf]** and my LinkedIn **[here](https://www.linkedin.com/in/ryan-callaghan-273624126/)**.
 
 ***
 
