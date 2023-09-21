@@ -1,10 +1,8 @@
 # Hi, I'm Ryan Callaghan! ![RACprofessionalpic](RyanProfPhoto.jpg "Me")
 
-## Welcome to my personal and professional website
-
 This is a space for people to get to know me, the projects I'm working on, and a general sense of my work!
 
-Find my resume **[here](Ryan_Callaghan_CV.pdf)** and my LinkedIn **[here](https://www.linkedin.com/in/ryan-callaghan-273624126/)**.
+Find my resume ![Ryan_Callaghan_CV.pdf](Ryan_Callaghan_CV.pdf)** and my LinkedIn **[here](https://www.linkedin.com/in/ryan-callaghan-273624126/)**.
 
 ***
 
@@ -60,8 +58,8 @@ I hold a Bachelors Degreee from Northwestern University in Computer Science and 
 
 # Non-Work Stuff
 
+### Interests
 In my free time I enjoy to cooking, hiking, weight lifting, biohacking (think sleep rituals & meditation, not Blade Runner! :) ) and traveling!
 
-# Personal Mission Statement
-
+### Personal Mission Statement
 My mission is to leverage empathy, technical understanding, and enterprise to elevate the human experience. I am dedicated to simplifying the complexities of post-modern life, making it more manageable and fulfilling for people of all backgrounds. By creating products that subtly optimize our responses to meaningful challenges, I aim to make potentially overwhelming aspects of life into opportunities for growth and meaning.
