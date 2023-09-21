@@ -1,10 +1,10 @@
 # Hi, I'm Ryan Callaghan! 
 
-<img src = "RyanProfPhoto.jpg" width="50%" height="50%" alt = "An old photo of me">
+<img src = "RyanProfPhoto.jpg" width="50%" height="50%" alt = "An old photo of me" align="center">
 
-This is a space for people to get to know me, the projects I'm working on, and a general sense of my work!
+This is a space for people to get to know me, a sense of my past work, and my interests!
 
-Here's a look my <a href="https://github.com/racrac5/racrac5.github.io/blob/master/Ryan Callaghan CV.pdf">resume</a> and **[LinkedIn profile](https://www.linkedin.com/in/ryan-callaghan-273624126/)**.
+Here's are my <a href="https://github.com/racrac5/racrac5.github.io/blob/master/Ryan Callaghan CV.pdf">resume</a> and **[LinkedIn](https://www.linkedin.com/in/ryan-callaghan-273624126/)** if you're interested.
 
 ***
 
@@ -63,8 +63,17 @@ I hold a Bachelors Degreee from Northwestern University in Computer Science and 
 
 # Non-Work Stuff
 
-### Interests
+### Personal Interests
 In my free time I enjoy to cooking, hiking, weight lifting, biohacking (think sleep rituals & meditation, not Blade Runner!) and traveling!
+
+### Professional Interests
+I am attracted to solving difficult problems more than I am a specific industry. If you're working on something cool, please share it with me at 203-293-5530! That said, some topics I think about a lot include:
+
+- Emissions and Grid Electrification
+- Smart Consumption & the need for Smart Cities
+- Biohacking, Bioinformatics, & AI-informed health optimization
+- Personalized Education
+- Aquaculture & Agritech as solutions to climate-driven food insecurity
 
 ### Personal Mission Statement
 My mission is to leverage empathy, technical understanding, and enterprise to elevate the human experience. I am dedicated to simplifying the complexities of post-modern life, making it more manageable and fulfilling for people of all backgrounds. By creating products that subtly optimize our responses to meaningful challenges, I aim to make potentially overwhelming aspects of life into opportunities for growth and meaning.
