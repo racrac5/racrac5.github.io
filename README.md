@@ -1,6 +1,6 @@
 # Hi, I'm Ryan Callaghan! 
 
-<img src = "https://github.com/racrac5/racrac5.github.io/blob/master/RyanProfPhoto.jpg" width="50%" height="50%" alignment = "center">
+<img src = "RyanProfPhoto.jpg" width="50%" height="50%" alt = "An old photo of me">
 
 This is a space for people to get to know me, the projects I'm working on, and a general sense of my work!
 
@@ -64,7 +64,7 @@ I hold a Bachelors Degreee from Northwestern University in Computer Science and 
 # Non-Work Stuff
 
 ### Interests
-In my free time I enjoy to cooking, hiking, weight lifting, biohacking (think sleep rituals & meditation, not Blade Runner! :) ) and traveling!
+In my free time I enjoy to cooking, hiking, weight lifting, biohacking (think sleep rituals & meditation, not Blade Runner!) and traveling!
 
 ### Personal Mission Statement
 My mission is to leverage empathy, technical understanding, and enterprise to elevate the human experience. I am dedicated to simplifying the complexities of post-modern life, making it more manageable and fulfilling for people of all backgrounds. By creating products that subtly optimize our responses to meaningful challenges, I aim to make potentially overwhelming aspects of life into opportunities for growth and meaning.
