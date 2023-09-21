@@ -1,6 +1,6 @@
 # Hi, I'm Ryan Callaghan! 
 
-<img src = "RyanProfPhoto.jpg" width="50%" height="50%" alt = "An old photo of me" align="center">
+<img src = "RyanProfPhoto.jpg" width="50%" height="50%" alt = "An old photo of me" align="middle">
 
 This is a space for people to get to know me, a sense of my past work, and my interests!
 
