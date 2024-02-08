@@ -4,7 +4,7 @@
 
 This is a space for people to get to know me, a sense of my past work, and my interests!
 
-Here's my <a href="https://github.com/racrac5/racrac5.github.io/blob/master/Ryan Callaghan CV.pdf" download="RyanCallaghanCV:>resume</a> and **[LinkedIn](https://www.linkedin.com/in/ryan-callaghan-273624126/)** if you're interested.
+Here's my <a href=https://github.com/racrac5/racrac5.github.io/blob/master/Ryan_Callaghan_CV.pdf download="RyanCallaghanCV":>resume</a> and **[LinkedIn](https://www.linkedin.com/in/ryan-callaghan-273624126/)** if you're interested.
 
 ***
 
