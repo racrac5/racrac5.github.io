@@ -4,7 +4,7 @@
 
 This is a space for people to get to know me, a sense of my past work, and my interests!
 
-Here's my <a href=https://github.com/racrac5/racrac5.github.io/blob/master/Ryan_Callaghan_CV.pdf download="RyanCallaghanCV":>resume</a> and **[LinkedIn](https://www.linkedin.com/in/ryan-callaghan-273624126/)** if you're interested.
+Here's my **[Resume](https://github.com/racrac5/racrac5.github.io/blob/1cef0c2634f82d3d19a917c41397c7d905386b89/Ryan%20Callaghan%20CV.pdf)** and **[LinkedIn](https://www.linkedin.com/in/ryan-callaghan-273624126/)** if you're interested.
 
 ***
 
@@ -24,11 +24,11 @@ I have been fascinated with startups and bootstrapping since I first became pass
 
 - **Pie, Growth Team**, I am leading efforts to grow a new Social Network focused on combatting lonliness by identifying and fostering high-potential interpersonal connections that would otherwise go undeveloped
 
+- - **Stealth, Product Advisor**, I am consulting a founder of an early-stage LATAM-focused B2C FinTech company on customer segmentation, market research, and establishing a roadmap to PMF.
+
 - **Quibbl, Chief of Staff**, I helped build a gameified approach to comment sections designed to reduce trolling and hate speech while rewarding thoughtful debate and genuine reflection by tracking commenter behavior and promoting comments from rule-abiding users.
   
 - **Sedelle, Technical Consultant**, I consulted a founder on design choices and technical flaws in an early build of a early-stage beauty and wellness marketplace
-  
-- **Stealth, Product Advisor**, I am consulting a founder of an early-stage LATAM-focused B2C FinTech company on customer segmentation, market research, and establishing a roadmap to PMF.
 
 # Education
 
