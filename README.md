@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src = "RyanProfPhoto.jpg" width="50%" height="50%" alt = "An old photo of me">
+  <img src = "RyanProfPhoto.jpg" width="40%" height="40%" alt = "An old photo of me">
 </div>
 
 This is a space for people to get to know me, a sense of my past work, and my interests!
