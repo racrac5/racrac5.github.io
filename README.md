@@ -81,4 +81,4 @@ I am attracted to solving big problems. If you're working on something cool, ple
 
 
 ### Personal Mission Statement
-My mission is to leverage empathy, technical understanding, and enterprise to elevate the human experience. I am dedicated to simplifying the complexities of post-modern life, making it more manageable and fulfilling for people of all backgrounds. By creating products that subtly optimize our responses to meaningful challenges, I aim to make potentially overwhelming aspects of life into opportunities for growth and meaning.
+My mission is to leverage empathy and technology to help elevate the human experience. I seek to simplify the complexities of post-modern life, making it more manageable and fulfilling for people of all backgrounds. By creating products and working with teams that gracefully optimize our responses to meaningful challenges, I aim to shape life's challenges into opportunities for growth and meaning.
