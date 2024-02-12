@@ -12,23 +12,23 @@ Here's my **[Resume](https://github.com/racrac5/racrac5.github.io/blob/6c0abd530
 
 ### Consulting
 
-I have 3+ years of Consulting Experience in Technology and Digital Tranformation. Currently, I am a member of Boston Consulting Group's Customer Journeys and F2B Transformation practice, where I have supported more than 35 ambitious programs across the Banking, Insurance, Public Sector, Hospitality, and B2B SaaS industries. My work at BCG has been varied, and included product roadmapping, workshop planning & moderation, conducting due dilligences, industry benchmarking, expert interviewing, client pitches, and agile product design.  
+I have 3+ years of Consulting Experience in Technology and Digital Tranformation. I was most recently a member of the Boston Consulting Group's Customer Journeys and F2B Transformation practice, where I supported more than 35 ambitious programs across the Banking, Insurance, Public Sector, Hospitality, and B2B SaaS industries. My work included product roadmapping, workshop planning & moderation, conducting due dilligences, industry benchmarking, expert interviews, client pitches, and agile product design.  
 
-Previously, I was an Anaslyst at Deloitte in the Customer & Marketing Life Sciences Practice working as a business analyst and APM on SaaMD (software as a medical device) products for Diabetes as well as Neurological and Immunological conditions.
+Previously, I was an Analyst at Deloitte in the Customer & Marketing Life Sciences Practice working as a business analyst and APM on SaaMD (software as a medical device) products for Diabetes as well as Neurological and Immunological conditions.
 
-Beyond my formal employment at BCG and Deloitte, I have also worked as an Inspire lo-bono Consultant, working with the Chicago area non-profit Sisters in Cinema. I developed a fundraising strategy and configured a CRM system to improve fundraising capacity on their behalf so that staff could focus on their mission of improving young Chicagoan's access to the arts.
+Beyond my formal employment at BCG and Deloitte, I have also worked as an Inspire pro-bono Consultant, working with the Chicago area non-profit Sisters in Cinema. I developed a fundraising strategy and configured a CRM system to improve fundraising capacity on their behalf so that staff could focus on their mission of improving young Chicagoan's access to the arts.
 
 ### Startups
 
-I have been fascinated with startups and bootstrapping since I first became passionnate about a product during my days 3-D printing impact resistant plastics as a High School Science Fair Geek. A quick summary of some past team's I've been involved with:
+I have been fascinated with startups and bootstrapping since I first became passionnate about a product during my days 3-D printing impact resistant plastics as a High School Science Fair Geek. A quick summary of some team's I am / have been involved with:
 
-- **Pie, Growth Team**, I am leading efforts to grow a new Social Network focused on combatting lonliness by identifying and fostering high-potential interpersonal connections that would otherwise go undeveloped
+- **Pie, Growth Team, Present**, I am leading efforts to grow a new Social Network focused on combatting lonliness by identifying and fostering high-potential interpersonal connections that would otherwise go undeveloped
 
-- - **Stealth, Product Advisor**, I am consulting a founder of an early-stage LATAM-focused B2C FinTech company on customer segmentation, market research, and establishing a roadmap to PMF.
+- **Stealth, Product Advisor, Present**, I am consulting a founder of an early-stage LATAM-focused B2C FinTech company on customer segmentation, market research, and establishing a roadmap to PMF.
 
 - **Quibbl, Chief of Staff**, I helped build a gameified approach to comment sections designed to reduce trolling and hate speech while rewarding thoughtful debate and genuine reflection by tracking commenter behavior and promoting comments from rule-abiding users.
   
-- **Sedelle, Technical Consultant**, I consulted a founder on design choices and technical flaws in an early build of a early-stage beauty and wellness marketplace
+- **Sedelle, Technical Consultant**, I consulted a founder on design choices and technical flaws in alpha and beta builds of a beauty and wellness marketplace
 
 # Education
 
@@ -73,10 +73,11 @@ I am attracted to solving difficult problems more than I am a specific industry.
 
 - Emissions and Grid Electrification
 - Smart Consumption & the need for Smart Cities
+- Lonliness, belonging, and strengthening communities
 - Biohacking, Bioinformatics, & AI-informed health optimization
 - Personalized Education
 - Aquaculture & Agritech as solutions to climate-driven food insecurity
-- Lonliness, belonging, and strengthening communities
+
 
 ### Personal Mission Statement
 My mission is to leverage empathy, technical understanding, and enterprise to elevate the human experience. I am dedicated to simplifying the complexities of post-modern life, making it more manageable and fulfilling for people of all backgrounds. By creating products that subtly optimize our responses to meaningful challenges, I aim to make potentially overwhelming aspects of life into opportunities for growth and meaning.
