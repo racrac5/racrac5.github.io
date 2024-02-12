@@ -1,4 +1,4 @@
-# Hi, I'm Ryan Callaghan! 
+
 <div align="center">
   <img src = "RyanProfPhoto.jpg" width="50%" height="50%" alt = "An old photo of me">
 </div>
