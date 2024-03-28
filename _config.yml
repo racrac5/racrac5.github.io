@@ -1,3 +1,9 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-hacker
 
 img: {align="middle"}
+
+plugins:
+  - jekyll-feed
+title: Ryan Blog
+description: Welcome to my blog
+author: Ryan Callaghan
